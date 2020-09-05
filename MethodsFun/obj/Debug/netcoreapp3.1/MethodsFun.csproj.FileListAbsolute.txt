@@ -1,0 +1,13 @@
+C:\Users\bwhit\source\repos\MethodsFun1\MethodsFun\MethodsFun\obj\Debug\netcoreapp3.1\MethodsFun.csprojAssemblyReference.cache
+C:\Users\bwhit\source\repos\MethodsFun1\MethodsFun\MethodsFun\obj\Debug\netcoreapp3.1\MethodsFun.AssemblyInfoInputs.cache
+C:\Users\bwhit\source\repos\MethodsFun1\MethodsFun\MethodsFun\obj\Debug\netcoreapp3.1\MethodsFun.AssemblyInfo.cs
+C:\Users\bwhit\source\repos\MethodsFun1\MethodsFun\MethodsFun\obj\Debug\netcoreapp3.1\MethodsFun.csproj.CoreCompileInputs.cache
+C:\Users\bwhit\source\repos\MethodsFun1\MethodsFun\MethodsFun\bin\Debug\netcoreapp3.1\MethodsFun.exe
+C:\Users\bwhit\source\repos\MethodsFun1\MethodsFun\MethodsFun\bin\Debug\netcoreapp3.1\MethodsFun.deps.json
+C:\Users\bwhit\source\repos\MethodsFun1\MethodsFun\MethodsFun\bin\Debug\netcoreapp3.1\MethodsFun.runtimeconfig.json
+C:\Users\bwhit\source\repos\MethodsFun1\MethodsFun\MethodsFun\bin\Debug\netcoreapp3.1\MethodsFun.runtimeconfig.dev.json
+C:\Users\bwhit\source\repos\MethodsFun1\MethodsFun\MethodsFun\bin\Debug\netcoreapp3.1\MethodsFun.dll
+C:\Users\bwhit\source\repos\MethodsFun1\MethodsFun\MethodsFun\bin\Debug\netcoreapp3.1\MethodsFun.pdb
+C:\Users\bwhit\source\repos\MethodsFun1\MethodsFun\MethodsFun\obj\Debug\netcoreapp3.1\MethodsFun.dll
+C:\Users\bwhit\source\repos\MethodsFun1\MethodsFun\MethodsFun\obj\Debug\netcoreapp3.1\MethodsFun.pdb
+C:\Users\bwhit\source\repos\MethodsFun1\MethodsFun\MethodsFun\obj\Debug\netcoreapp3.1\MethodsFun.genruntimeconfig.cache
